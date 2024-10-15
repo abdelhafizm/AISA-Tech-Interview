@@ -9,7 +9,7 @@ Your tasks are:
 2. Create a new branch named "tech-interview"
 
 # Tasks
-On the branch you created, add functionality that fulfils the following tasks. You are allowed to change the skeleton functions as you see fit. You're also allowed (encouraged) to add helper functions, but the main calls should be to the two functions provided. You **may not** change the ```if __name__ == '__main__'``` code block. 
+On the branch you created, add functionality that fulfils the following tasks. You are allowed to change the skeleton functions as you see fit. You're also allowed (encouraged) to add helper functions, but the main call should be to the ```run_interview``` provided. You **may not** change the ```if __name__ == '__main__'``` code block. 
 
 ### Question 1:
 

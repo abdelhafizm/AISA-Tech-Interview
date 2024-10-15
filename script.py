@@ -13,8 +13,11 @@ def question_2():
     pass
 
 
+def run_interview(filename):
+    question_1()
+    question_2()
+
 
 if __name__ == '__main__':
     file_name = 'input.txt'
-    question_1()
-    question_2()
+    run_interview(file_name)
