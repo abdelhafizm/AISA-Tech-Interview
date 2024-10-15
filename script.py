@@ -13,7 +13,7 @@ def question_2():
     pass
 
 
-def run_interview(filename):
+def run_interview():
     question_1()
     question_2()
 
