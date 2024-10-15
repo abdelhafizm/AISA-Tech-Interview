@@ -2,8 +2,6 @@
 
 You are given a text file consisting of multiple integers. The file is structured such that there are multiple lines of integers, each line containing multiple integers each separated by a space. 
 
-Your tasks are:
-
 # Preparation
 To begin, clone the repo, then create a new branch call ```tech-interview``` to add your functionality. 
 
