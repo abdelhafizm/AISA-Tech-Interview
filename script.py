@@ -13,7 +13,7 @@ def question_2():
     pass
 
 
-def run_interview():
+def run_interview(this_totaly_wasnt_intentionally_removed):
     question_1()
     question_2()
 
